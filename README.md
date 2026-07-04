@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate Computer Science student and developer from India.</h3>
  
-<img align ="right" alt="coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
+<img align ="right" alt="coding" width="400" src="https://media1.tenor.com/m/iAMuI4BD10AAAAAd/matrix-online.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman111lowlevel&label=Profile%20views&color=0e75b6&style=flat" alt="Aman111lowlevel" /> </p>
 
 - 🌱 I’m currently learning **Advanced Data Structures, Algorithms, and Core Computer Science.**
