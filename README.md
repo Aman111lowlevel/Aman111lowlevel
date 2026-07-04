@@ -33,10 +33,14 @@
 
 ---
 
-<h3 align="center">👾 Contribution Snake Game</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aman111lowlevel/Aman111lowlevel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+## My Contribution Graph
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aman111lowlevel/Aman111lowlevel/output/[game-name]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aman111lowlevel/Aman111lowlevel/output/[game-name]-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/Aman111lowlevel/Aman111lowlevel/output/[game-name]-contribution-graph.svg">
+</picture>
 
 ---
 
