@@ -31,6 +31,15 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
+---
+
+<h3 align="center">👾 Contribution Snake Game</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aman111lowlevel/Aman111lowlevel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman111lowlevel&show_icons=true&locale=en&layout=compact" alt="Aman111lowlevel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aman111lowlevel&show_icons=true&locale=en" alt="Aman111lowlevel" /></p>
