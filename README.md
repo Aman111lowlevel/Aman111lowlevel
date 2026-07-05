@@ -32,13 +32,13 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman111lowlevel&theme=radical">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aman111lowlevel&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman111lowlevel&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman111lowlevel&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman111lowlevel&theme=dark">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aman111lowlevel&theme=dark">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman111lowlevel&theme=dark">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman111lowlevel&theme=dark">
   <br><br>
   <img height="169em" src="https://github-readme-stats.vercel.app/api?username=Aman111lowlevel&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman111lowlevel&theme=radical">
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman111lowlevel&theme=dark">
 </div>
 
 ## 🌐 Socials:
@@ -48,4 +48,4 @@
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
