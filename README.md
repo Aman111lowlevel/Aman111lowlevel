@@ -22,10 +22,10 @@
 ## My Contribution Graph
 
 <!-- [game-name] -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aman111lowlevel/Aman111lowlevel/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aman111lowlevel/Aman111lowlevel/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aman111lowlevel/Aman111lowlevel/output/pacman-contribution-graph.svg">
+<picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aman111lowlevel/Aman111lowlevel/output/pacman-contribution-graph-dark.svg?v=999"> 
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aman111lowlevel/Aman111lowlevel/output/pacman-contribution-graph.svg?v=999"> 
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aman111lowlevel/Aman111lowlevel/output/pacman-contribution-graph.svg?v=999"> 
 </picture>
 
 ---
