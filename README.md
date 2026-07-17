@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman111lowlevel&label=Profile%20views&color=0e75b6&style=flat" alt="Aman111lowlevel" /> </p>
 
 - 🌱 I’m currently learning **Advanced Data Structures, Algorithms, and Core Computer Science.**
-- 💬 Ask me about **C, C++, Python, JavaScript, HTML, CSS**
+- 💬 Ask me about **C, C++, Python, SQL ,JavaScript, HTML, CSS**
 - ⚡ Fun fact **I love breaking down complex logic and engineering systems from the ground up.**
 
 - ## 😂 Here is a random joke that'll make you laugh!
