@@ -8,7 +8,7 @@
 - 💬 Ask me about **C, C++, Python, SQL ,JavaScript, HTML, CSS**
 - ⚡ Fun fact **I love breaking down complex logic and engineering systems from the ground up.**
 
-- ## 😂 Here is a random joke that'll make you laugh!
+- ### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 🏆 GitHub Trophies
